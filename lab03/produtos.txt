@@ -1,0 +1,22 @@
+Coca-cola;10;Bar do Zé
+Mouse;35;Microsoft
+Teclado do professor;50;Logitech
+Pão de queijo;100;Borges
+Teclado Multimídia;200;Microsoft
+Cerveja;15;Ambev
+Fone de ouvido;120;Sony
+Chocolate ao leite;25;Nestlé
+Camiseta personalizada;60;Adidas
+Notebook Gamer;3500;Dell
+Café em grãos;30;Melitta
+Cadeira de escritório;350;Steelcase
+Óculos de sol;80;Ray-Ban
+Smartphone;2000;Samsung
+Caderno universitário;10;Tilibra
+Mousepad gamer;45;Razer
+Tênis de corrida;150;Nike
+Bicicleta;800;Caloi
+Relógio de pulso;250;Casio
+Suco de laranja;8;Del Valle
+Placa de vídeo;1200;Nvidia
+Bolacha recheada;5;Nabisco
