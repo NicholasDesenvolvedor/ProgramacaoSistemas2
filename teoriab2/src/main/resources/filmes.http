@@ -1,0 +1,11 @@
+GET http://localhost:8080/api/filmes
+###
+
+POST http://localhost:8080/api/filmes
+Content-Type: application/json
+
+{
+    "titulo" : "Minecraft",
+    "ano" : "2024",
+    "pais" : "EUA"
+}

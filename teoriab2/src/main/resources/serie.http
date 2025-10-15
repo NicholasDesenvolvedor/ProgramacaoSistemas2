@@ -1,0 +1,11 @@
+GET http://localhost:8080/api/series
+###
+
+POST http://localhost:8080/api/series
+Content-Type: application/json
+
+{
+    "titulo" : "Cosmos",
+    "temporadas" : "3",
+    "episodios" : "36"
+}
